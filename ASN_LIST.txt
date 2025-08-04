@@ -8,6 +8,7 @@ https://asn.ipinfo.app/api/text/list/AS61112 #AKILECLOUD - AKILE LTD
 https://asn.ipinfo.app/api/text/list/AS8100 # ASN-QUADRANET-GLOBAL
 https://asn.ipinfo.app/api/text/list/AS16276 #OVH - OVH SAS
 https://asn.ipinfo.app/api/text/list/AS35540 #OVH-TELECOM - OVH SAS
+https://asn.ipinfo.app/api/text/list/AS395092 #ShockHosting
 https://asn.ipinfo.app/api/text/list/AS394814 #ISP4Life
 https://asn.ipinfo.app/api/text/list/AS35478 #DATACENTER - Bunea TELECOM SRL
 https://asn.ipinfo.app/api/text/list/AS22384 #PERFORMIVE-VNI
